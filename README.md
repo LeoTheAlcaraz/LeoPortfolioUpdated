@@ -10,8 +10,6 @@ This portfolio showcases who I am, what I can do, and the projects I’ve built.
 ## 📁 Project Structure
 
 
----
-
 ## 🛠️ Built With
 
 - **HTML5** – Semantic structure and accessibility
