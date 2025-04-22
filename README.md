@@ -37,8 +37,8 @@ This portfolio showcases who I am, what I can do, and the projects I’ve built.
 If you're interested in collaborating, hiring, or just want to say hi – feel free to reach out:
 
 - 📧 Email: leoalcarazjr2004@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/leothealcaraz/)
-- 🌐 Portfolio: [https://alcarazleoportfolio.netlify.app/](https://alcarazleoportfolio.netlify.app/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/leothealcaraz/)
+- 🌐 Portfolio: (https://alcarazleoportfolio.netlify.app/)
 
 ---
 
