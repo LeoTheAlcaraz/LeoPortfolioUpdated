@@ -46,4 +46,4 @@ If you're interested in collaborating, hiring, or just want to say hi – feel f
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone (https://github.com/LeoTheAlcaraz/LeoPortfolioUpdated/tree/main)
