@@ -29,14 +29,6 @@ This portfolio showcases who I am, what I can do, and the projects I’ve built.
 - ✅ Clean, professional, and minimalist design
 - ✅ Hosted live on **Netlify**
 
----
-
-## 📸 Preview
-
-> You can add a screenshot of the site here using:
->  
-> `![Screenshot](./assets/preview.png)`  
-> *(Make sure to place a screenshot in the `assets` folder and name it `preview.png` or update the path accordingly)*
 
 ---
 
